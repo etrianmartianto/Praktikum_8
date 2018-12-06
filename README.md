@@ -130,6 +130,16 @@ Fibonacci
 
 
 
+Flowchart Fibonacci
+
+
+
+
+![alt text](https://github.com/etrianmartianto/Praktikum_8/blob/master/Latihan_1/Flowchart.png)
+
+
+
+
 
 
 Fungsi Iterasi
